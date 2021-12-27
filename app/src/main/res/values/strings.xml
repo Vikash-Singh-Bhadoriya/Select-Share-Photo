@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Select Share</string>
+    <string name="share_photo_with">Share photo with</string>
+    <string name="no_app_available_to_share_photo">No app available to share Photo</string>
+    <string name="no_app_available_to_get_photo">No app available to get Photo</string>
+    <string name="cannot_get_photo">Can\'t get Photo</string>
+    <string name="photo">Photo</string>
+    <string name="share">Share</string>
+    <string name="select_photo">Select Photo</string>
 </resources>
